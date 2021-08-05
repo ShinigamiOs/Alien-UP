@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objetos",
-    "path": "folders/Objetos.yy",
+    "name": "Muros",
+    "path": "folders/Objetos/Muros.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_muroDer",

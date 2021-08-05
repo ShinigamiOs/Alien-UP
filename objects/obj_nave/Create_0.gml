@@ -1,3 +1,5 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
-gravity = 0.1;
+contGravedad = 0;
+contX = 0;
+contY = 0;
